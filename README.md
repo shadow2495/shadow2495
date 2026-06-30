@@ -1,4 +1,4 @@
-# Hi there, I'm Harshabrdhan Raj 👋
+# Hi there, I'm Harshbardhan Raj 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%A4%96;ML+%2F+DL+Enthusiast+%F0%9F%A7%A0;FastAPI+%7C+Streamlit+Builder+%F0%9F%9A%80" alt="Typing SVG" />
@@ -10,8 +10,8 @@
   <a href="mailto:rajaharsh0608@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20WB-informational?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </div>
@@ -64,130 +64,102 @@
   <tr>
     <td width="50%" valign="top">
 
-### ⛓ ILFUS
-**Immutable Ledger File Upload System**
-
-`Solidity` `FastAPI` `Streamlit` `PostgreSQL` `IPFS` `Ethereum`
-
-- 🔒 Encrypts files with **AES-256-GCM**, stores on **IPFS**, anchors SHA-256 hash on Ethereum
-- 🛡 Smart contract access control with **role-based permissions**, expiry & audit trail
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/ilfus)
-
-  </td>
-    <td width="50%" valign="top">
-
 ### 🏠 House Price Prediction
-**End-to-End ML Pipeline**
+**End-to-End ML Pipeline (Ames Housing)**
 
-`Python` `FastAPI` `Streamlit` `Scikit-learn`
+`Python` `XGBoost` `MLflow` `FastAPI` `Streamlit` `Docker`
 
-- 🔧 Full ML pipeline — ingestion, preprocessing, feature engineering, training & inference
+- 🔧 Full pipeline — ingestion, preprocessing, feature engineering, training & inference
 - 🌐 FastAPI backend + Streamlit frontend for real-time predictions
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/house-price-prediction)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/house-price-prediction)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📉 Netflix Customer Churn Prediction
+**Churn Modeling at Scale**
+
+`Python` `XGBoost` `SMOTE` `SHAP` `MLflow` `FastAPI`
+
+- 🧮 500K-row synthetic dataset, class imbalance handled with SMOTE
+- 📊 SHAP-based model explainability + tracked experiments via MLflow
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/netflix-churn-prediction)
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 NLP Semantic Similarity
-**Text Similarity Engine**
+### 📊 EDA Dashboard for E-Commerce Sales
+**UCI Online Retail Analysis**
 
-`Python` `PyTorch` `HuggingFace` `Streamlit`
+`Python` `Streamlit` `Plotly` `Pandas`
 
-- 📝 Fine-tuned transformer model for **semantic similarity** on custom datasets
-- 📊 Interactive dashboard for real-time sentence comparison and scoring
+- 🔍 RFM segmentation, revenue trend analysis, geographic demand mapping
+- 🧪 A/B testing module with interactive Plotly dashboard
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/nlp-semantic-similarity)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 📊 EDA & Feature Engineering Toolkit
-**Automated Data Analysis**
-
-`Python` `Pandas` `Matplotlib` `Seaborn`
-
-- 🔍 Automated **EDA** with statistical summaries and visualizations
-- ⚙️ Modular feature engineering pipeline for classification and regression
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/eda-toolkit)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 100 Days of Deep Learning
-**DL Model Zoo**
-
-`Python` `TensorFlow` `PyTorch` `Keras`
-
-- 🏗 Implemented **CNNs, RNNs, LSTMs, Transformers** from scratch
-- 📈 Covers image classification, text generation, time-series forecasting & more
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/100-days-dl)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/ecommerce-eda-dashboard)
 
   </td>
     <td width="50%" valign="top">
 
-### 📈 100 Days of Machine Learning
-**ML Experiments Tracker**
+### 🌸 Iris Flower Classification
+**Classic ML Classification**
 
-`Python` `Scikit-learn` `MLflow` `Pandas`
+`Python` `Scikit-learn` `Matplotlib` `Seaborn`
 
-- 🧪 100+ experiments with **MLflow tracking** — metrics, params & artifacts
-- 🔁 Covers classification, regression, clustering & dimensionality reduction
+- 🔍 Full EDA, feature analysis, and multi-model comparison
+- 📈 Clean, end-to-end notebook from data load to evaluation
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/100-days-ml)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/iris-classification)
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🌐 FastAPI Production Boilerplate
-**REST API Starter Template**
+### 🚗 Car Price Prediction
+**Regression Pipeline**
 
-`Python` `FastAPI` `PostgreSQL` `Docker` `JWT`
+`Python` `Scikit-learn` `Pandas` `Seaborn`
 
-- ⚡ FastAPI template with **JWT auth**, Docker, async DB & OpenAPI docs
-- 🔐 Rate limiting, CORS, async sessions & environment-based config
+- ⚙️ End-to-end notebook: preprocessing, feature engineering, model comparison
+- 📈 Visual diagnostics for residuals and feature importance
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/fastapi-boilerplate)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/car-price-prediction)
 
   </td>
     <td width="50%" valign="top">
 
-### 🔮 Generative AI Experiments
-**GenAI Projects Collection**
+### 🧪 ModularEDA
+**Automated EDA Research Framework**
 
-`Python` `LangChain` `OpenAI` `Streamlit`
+`Python` `MLflow` `Pandas`
 
-- 🤖 Built **RAG pipelines**, chatbots & prompt-engineering experiments
-- 🧬 LLM fine-tuning, vector stores & AI-powered document Q&A
+- 📐 Quantitative EDA quality metrics: Insight Density Score, Feature Coverage Completeness, Redundancy Index
+- 🔁 MLflow-integrated, publication-ready automated EDA pipeline
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/harshabrdhanraj/genai-projects)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/modular-eda)
 
   </td>
   </tr>
 </table>
 
-> 💡 Replace the repo links above with your actual GitHub repository URLs.
+> 💡 Replace `YOUR_GITHUB_USERNAME` everywhere (repo links + stats below) with your actual GitHub handle.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshabrdhanraj&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshabrdhanraj&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshabrdhanraj&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -202,7 +174,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshabrdhanraj&color=00d4ff&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d4ff&style=flat-square&label=Profile+Views"/>
   <br/><br/>
   <i>"Building systems that are secure, scalable, and trustless."</i>
 </div>
